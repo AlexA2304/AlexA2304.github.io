@@ -1,0 +1,77 @@
+body {
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+
+header {
+    background-image: url('/Users/alexarcher/Desktop/CodeAcademy/Project1/Resorces/Assets/image1.jpeg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+header h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+    font-family: Helvetica;
+}
+
+figcaption {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 17px;
+}
+
+#brushes {
+    width: 100%;
+    height: auto;
+    background-color: mediumspringgreen;
+}
+
+#brushes h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#frames {
+    width: 100%;
+    height: auto;
+    background-color: lightcoral;
+}
+
+#frames h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#paint {
+    width: 100%;
+    height: auto;
+    background-color: skyblue;
+}
+
+#paint h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
